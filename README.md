@@ -5,3 +5,8 @@ line. You can add and remove files from your image, but also list BASIC and
 DAMS source files (which are usually in a tokenized format, not plain ASCII).
 
 iDSK can add and remove AMSDOS headers as needed.
+
+Instructions de compilation :
+* unzip
+* cmake.
+* make
